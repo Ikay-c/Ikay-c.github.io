@@ -1,0 +1,60 @@
+h1{
+  color:blue;
+  background-color:yellow;
+}
+.outer-box{
+  height:400px;
+  width:220px;
+  color:violet;
+  background-color:orange;
+  border-color:brown;
+  padding: 15px;
+}
+.list-title{
+  height:70px;
+  width:220px;
+  color:blue;
+  background-color:gold;
+  text-align:center;
+}
+.date{
+  height:20px;
+  width:30px;
+  position: static;
+  bottom:20px;
+  text-align:center;
+}
+.list-body{
+  background-color:pink;
+  color:black;
+  width:220px;
+  height:250px;
+  overflow:scroll;
+}
+.content-box{
+  width:190px;
+  height:70px;
+  background-color:orange;
+}
+.text-list{
+  height:40px;
+  width:110px;
+  background-color:white;
+}
+.set-button{
+  height:20px;
+  width:70px;
+  align-content:center;
+  background-color:brown;
+  color:black;
+}
+.check{
+  height:15px;
+  width:15px;
+  position:static;
+  left:15px;
+}
+.time{
+  height:20px;
+  width:30px;
+}
